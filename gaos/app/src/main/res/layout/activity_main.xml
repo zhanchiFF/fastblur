@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="gaos.zhanchiff.com.myapplication.MainActivity">
+
+    <TextView
+        android:id="@+id/test1"
+        android:layout_gravity="center_horizontal"
+        android:padding="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="测试 5112 * 3508"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_marginTop="100dp"/>
+
+    <TextView
+        android:id="@+id/test2"
+        android:layout_gravity="center_horizontal"
+        android:padding="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="测试 1024 * 731"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/test3"
+        android:layout_gravity="center_horizontal"
+        android:padding="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="测试 800 * 800"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/test4"
+        android:layout_gravity="center_horizontal"
+        android:padding="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="测试 202 * 154"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_marginTop="20dp"/>
+
+</LinearLayout>
